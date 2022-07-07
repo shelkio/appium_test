@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case.test_open_cgs",
+    "children" : [ {
+      "name" : "test_open_cgs",
+      "uid" : "36172d2cb1ad9883",
+      "parentUid" : "36784ca4f0622430bbe64ae47bcf1518",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657189777638,
+        "stop" : 1657189781156,
+        "duration" : 3518
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test_case.test_open_cgs"
+  } ]
+}

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 07 18:29:37 CST 2022","Thu Jul 07 18:29:41 CST 2022","3518","test_case","test_open_cgs","","","","test_open_cgs",""

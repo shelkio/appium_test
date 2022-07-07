@@ -1,0 +1,119 @@
+{
+  "uid" : "36172d2cb1ad9883",
+  "name" : "test_open_cgs",
+  "fullName" : "test_case.test_open_cgs#test_open_cgs",
+  "historyId" : "4b12c67c41be18b252c01a03104b856d",
+  "time" : {
+    "start" : 1657189777638,
+    "stop" : 1657189781156,
+    "duration" : 3518
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1657189764928,
+      "stop" : 1657189777637,
+      "duration" : 12709
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "driver",
+    "time" : {
+      "start" : 1657189755740,
+      "stop" : 1657189764926,
+      "duration" : 9186
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "405f40d8c913dd77",
+      "name" : "log",
+      "source" : "405f40d8c913dd77.txt",
+      "type" : "text/plain",
+      "size" : 2098
+    }, {
+      "uid" : "aa9742a9e889d89e",
+      "name" : "stdout",
+      "source" : "aa9742a9e889d89e.txt",
+      "type" : "text/plain",
+      "size" : 126
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1657189781158,
+      "stop" : 1657189781159,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_open_cgs"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9BAFSPC"
+  }, {
+    "name" : "thread",
+    "value" : "34684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_open_cgs"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36172d2cb1ad9883.json",
+  "parameterValues" : [ ]
+}

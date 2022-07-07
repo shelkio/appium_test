@@ -1,0 +1,11 @@
+[ {
+  "uid" : "36172d2cb1ad9883",
+  "name" : "test_open_cgs",
+  "time" : {
+    "start" : 1657189777638,
+    "stop" : 1657189781156,
+    "duration" : 3518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

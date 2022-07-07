@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_open_cgs",
+    "uid" : "36172d2cb1ad9883",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1657189777638,
+      "stop" : 1657189781156,
+      "duration" : 3518
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,9 @@
+# 基础参数
+
+- # app包名
+  platformName: "Android"
+  platformVersion: "10"
+  deviceName: "HUAWEI Mate 10 Pro"
+  appPackage: "com.zcbl.bjjj_driving"
+  appActivity: "com.zcbl.home.SplashActivity"
+  noReset: True  # 再次启动不需要重新登录
